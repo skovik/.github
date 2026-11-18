@@ -6,7 +6,7 @@
 
 ### About Skovik
 
-Skovik is expense management for mid-size companies and enterprises that span countries, entities and tax regimes. Employees report expenses, mileage and per diems in seconds. Skovik applies company policy and local tax rules, routes approvals, reconciles corporate cards and posts the result to the finance and HR systems our customers already run.
+Skovik provides expense management software for mid-size companies and enterprises operating across multiple countries, legal entities and tax regimes. Employees report expenses, mileage and per diems in seconds. Skovik applies company policy and local tax rules, routes approvals, reconciles corporate cards and posts the result to finance and HR systems.
 
 We're based in Stockholm and Frankfurt, serving customers in more than 70 countries.
 
